@@ -10,7 +10,7 @@ on training folds only, and an official test set scored once.
 
 ## Data (not included)
 - UNSW-NB15: official training and testing partitions (UNSW Canberra): https://research.unsw.edu.au/projects/unsw-nb15-dataset
-- NSL-KDD: KDDTrain+.txt and KDDTest+.txt (Tavallaee et al., 2009). Source of the copy used: **[add URL]**
+- NSL-KDD: KDDTrain+.txt and KDDTest+.txt (Tavallaee et al., 2009). Source of the copy used: **NSL-KDD: https://www.unb.ca/cic/datasets/nsl.html (KDDTrain+.txt, KDDTest+.txt)**
 Put the files in one folder and pass it to the scripts with `--data`.
 
 ## Contents
